@@ -19,7 +19,7 @@ namespace EmployeeManagementLibrary.Handlers
         }
         public Task<List<EmployeeModel>> Handle(GetEmployeeListQuery request, CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            return Task.FromResult(_dataAccess.GetEmployees());
         }
     }
 }

@@ -1,0 +1,12 @@
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\bin\Debug\net6.0\EmployeeManagementLibrary.deps.json
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\bin\Debug\net6.0\EmployeeManagementLibrary.dll
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\bin\Debug\net6.0\EmployeeManagementLibrary.pdb
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.csproj.AssemblyReference.cache
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.AssemblyInfoInputs.cache
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.AssemblyInfo.cs
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.csproj.CoreCompileInputs.cache
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.dll
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\refint\EmployeeManagementLibrary.dll
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\EmployeeManagementLibrary.pdb
+C:\tmp\CQRS-MediatR\EmployeeManagementLibrary\obj\Debug\net6.0\ref\EmployeeManagementLibrary.dll

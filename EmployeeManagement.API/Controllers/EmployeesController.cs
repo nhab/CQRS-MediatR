@@ -17,8 +17,9 @@ namespace EmployeeManagement.API.Controllers
         }
         [HttpGet]
         public async Task<List<EmployeeModel>> Get()
-        { 
-        return await _mediator.Send(new GetEmployeeListQuery());
+        {
+            var employeeList = new GetEmployeeListQuery();
+        return await _mediator.Send(employeeList);
         }
     }
 }
