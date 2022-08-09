@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "Mu5PDJioFbmU6bt1nJhhriI/yW0Ck1/EwcNozA8jJR/daJt4GaQ4RcNRqX3y3dNJAECYnNPpFgUYD7s0tH030g==",
+  "dgSpecHash": "ewR275x1+qrMH6+41cYhOsM4P54pM2FCga2HUyF9L1Q/xKApvvX0L8I1Z+UTbHVsqghgo5qSNRt019vZ2riFrg==",
   "success": true,
   "projectFilePath": "C:\\tmp\\CQRS-MediatR\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\npc\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\npc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\npc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\npc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\npc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
