@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mu5PDJioFbmU6bt1nJhhriI/yW0Ck1/EwcNozA8jJR/daJt4GaQ4RcNRqX3y3dNJAECYnNPpFgUYD7s0tH030g==",
+  "success": true,
+  "projectFilePath": "C:\\tmp\\CQRS-MediatR\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\npc\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
