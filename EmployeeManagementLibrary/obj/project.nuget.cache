@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zqi7f1AD4S7Y6eV5AqvTR5f1phJaTFByskE8ZdOM+rHhzmCVqu10BjBatFSIugP9GERHVjmzjU4ovRCtpHjbw==",
+  "success": true,
+  "projectFilePath": "C:\\tmp\\CQRS-MediatR\\EmployeeManagementLibrary\\EmployeeManagementLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\npc\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\npc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
