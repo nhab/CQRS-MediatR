@@ -118,6 +118,19 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "EmployeeManagementLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "MediatR": "10.0.1"
+        },
+        "compile": {
+          "bin/placeholder/EmployeeManagementLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeManagementLibrary.dll": {}
+        }
       }
     }
   },
@@ -314,10 +327,16 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "EmployeeManagementLibrary/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeManagementLibrary/EmployeeManagementLibrary.csproj",
+      "msbuildProject": "../EmployeeManagementLibrary/EmployeeManagementLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EmployeeManagementLibrary >= 1.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 10.0.1",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
@@ -348,7 +367,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\tmp\\CQRS-MediatR\\EmployeeManagementLibrary\\EmployeeManagementLibrary.csproj": {
+              "projectPath": "C:\\tmp\\CQRS-MediatR\\EmployeeManagementLibrary\\EmployeeManagementLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

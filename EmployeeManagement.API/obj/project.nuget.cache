@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ewR275x1+qrMH6+41cYhOsM4P54pM2FCga2HUyF9L1Q/xKApvvX0L8I1Z+UTbHVsqghgo5qSNRt019vZ2riFrg==",
+  "dgSpecHash": "KT95aAkmKMQG92HvWEqRo2NwscoKLsA5X4hasD1s97UmqcODT88njCRFGRqo9H7rVV5bXb/Bh4ptWPSrA6TY8w==",
   "success": true,
   "projectFilePath": "C:\\tmp\\CQRS-MediatR\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
   "expectedPackageFiles": [
